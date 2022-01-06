@@ -17,6 +17,7 @@ When you click the **Knit** button a document will be generated that includes bo
 
 ```{r cars}
 print("this is a test data to test clonning")
+print("test2")
 summary(cars)
 ```
 
